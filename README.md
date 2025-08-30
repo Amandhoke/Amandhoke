@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=F700FF&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Aman+Dhoke+👨‍💻;Web+%26+Mobile+Developer+🚀;Always+Learning+New+Things+🌱;Turning+Ideas+into+Reality+💡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=F700FF&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Aman+Dhoke+👨‍💻;Web+Developer+🚀;Always+Learning+New+Things+🌱;Turning+Ideas+into+Reality+💡">
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@
       <h2>⚡ About Me</h2>
       <p>
         🎓 B.Tech CSE Student @ IIIT Jabalpur (2022–2026)<br>
-        💡 Love building <b>Web Apps | Mobile Apps | Cool UIs</b><br>
-        🚀 Exploring <b>AI + Cloud + PWAs</b><br>
+        💡 Love building <b>Web Apps | Cool UIs</b><br>
+        🚀 Exploring <b>AI + Cloud + Mobile Apps </b><br>
         🌱 Always curious to <b>learn, design & create</b><br>
         🔥 Motto: <i>Code. Create. Conquer.</i><br><br>
         💻 You can check out all my projects in my <a href="https://github.com/Amandhoke?tab=repositories"><b>GitHub Repositories</b></a>
